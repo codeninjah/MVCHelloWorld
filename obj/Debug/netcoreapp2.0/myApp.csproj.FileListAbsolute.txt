@@ -1,0 +1,10 @@
+C:\Users\Hermods Bygg\myApp\bin\Debug\netcoreapp2.0\myApp.deps.json
+C:\Users\Hermods Bygg\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.json
+C:\Users\Hermods Bygg\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.dev.json
+C:\Users\Hermods Bygg\myApp\bin\Debug\netcoreapp2.0\myApp.dll
+C:\Users\Hermods Bygg\myApp\bin\Debug\netcoreapp2.0\myApp.pdb
+C:\Users\Hermods Bygg\myApp\obj\Debug\netcoreapp2.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\Hermods Bygg\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfoInputs.cache
+C:\Users\Hermods Bygg\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfo.cs
+C:\Users\Hermods Bygg\myApp\obj\Debug\netcoreapp2.0\myApp.dll
+C:\Users\Hermods Bygg\myApp\obj\Debug\netcoreapp2.0\myApp.pdb
